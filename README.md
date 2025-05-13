@@ -124,16 +124,6 @@ GET    /customer-of-month       # Get featured customer
 
 ---
 
-## 🧪 Sample Environment Setup
-
-Add a `.env` file in `customer-frontend/` with:
-
-```
-REACT_APP_BASE_URL=http://<YOUR_BACKEND_EC2_PUBLIC_IP>:8080
-```
-
----
-
 ## 🧠 Lessons Learned
 
 - Integrated full-stack deployment across EC2, RDS, and S3
