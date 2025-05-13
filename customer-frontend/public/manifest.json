@@ -1,0 +1,15 @@
+{
+  "short_name": "MeqeCoffee",
+  "name": "Meqe's Coffee Shop",
+  "icons": [
+    {
+      "src": "coffee.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
