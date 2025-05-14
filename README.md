@@ -1,6 +1,6 @@
-# ☕ MyCoffee
+# ☕ MeqeCoffee
 
-**MyCoffee** is a full-stack web application that simplifies the coffee ordering experience for users and manages coffee-related data on the backend. The application is built using **React (frontend)**, **Spring Boot (backend)**, and **MySQL (database)**, and is deployed using **AWS EC2** and **S3** services.
+**MeqeCoffee** is a full-stack web application that simplifies the coffee ordering experience for users and manages coffee-related data on the backend. The application is built using **React (frontend)**, **Spring Boot (backend)**, and **MySQL (database)**, and is deployed using **AWS EC2** and **S3** services.
 
 ---
 
