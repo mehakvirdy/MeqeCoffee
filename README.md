@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-**Frontend (S3-hosted)**: [http://mycoffeems.s3-website-us-west-1.amazonaws.com/](http://mycoffeems.s3-website-us-west-1.amazonaws.com/)
+**Under Construction**
 
 ---
 
